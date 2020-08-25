@@ -1,0 +1,22 @@
+-->cars
+green led -> 18
+yellow led -> 19
+red led ->20
+
+-->pedistrien
+green led -> 23
+red led -> 22
+
+-->left 7-segments
+A -> 40
+B -> 39
+C -> 38
+D -> 37
+Enb -> 33
+
+-->right 7-segments
+A -> 1
+B -> 2
+C -> 3
+D -> 4
+Enb -> 5
